@@ -8,8 +8,9 @@ namespace DesignPatterns
         {
             Console.WriteLine("Hello World!");
             //工厂方法模式
-            FactoryMethod.Factory.Test();
-
+            //FactoryMethod.Factory.Test();
+            //抽象工厂模式
+            AbstractFactory.AbstractFactoryTest.Test();
 
 
             Console.ReadLine();
