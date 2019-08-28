@@ -10,8 +10,11 @@ namespace DesignPatterns
             //工厂方法模式
             //FactoryMethod.Factory.Test();
             //抽象工厂模式
-            AbstractFactory.AbstractFactoryTest.Test();
+            //AbstractFactory.AbstractFactoryTest.Test();
+            //Builder.BuilderTest.Test();
 
+            //Prototype.PrototypeTest.Test();
+            Singleton.SingletonTest.Test();
 
             Console.ReadLine();
         }
